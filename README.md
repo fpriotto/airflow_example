@@ -1,6 +1,6 @@
 # airflow_example
 
-This project sets up an Apache Airflow environment, configures the server and implements a simple ETL (Extract, Transform, Load) process using bash operators for demonstration and practice purposes. In order to reproduce results, one must follow the process describe in "Usage" Section.
+This project sets up an Apache Airflow environment, configures the server and implements a simple ETL (Extract, Transform, Load) process using bash operators for demonstration and practice purposes. In order to reproduce results, one must follow the process described in "Usage" Section.
 The ETL process consists in a few steps as follows:
 
 - Set up the staging area;
