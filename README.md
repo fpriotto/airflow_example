@@ -20,7 +20,7 @@ The setup.sh script automates the process of setting up the airflow environment 
 ./setup.sh
 ```
 
-The script will ask for credentials to create a user after relevant software is installed. Run the server as shown:
+The script will ask for credentials to create a new user after relevant software is installed. Run the server as shown:
 
 ```bash
 ./run-server.sh
